@@ -13,4 +13,4 @@ A simple Python + Streamlit app to convert between:
 pip install streamlit
 
 Run the app:
-streamlit run app.py
+https://unit-converter-nakazllomk4etegubyc6e7.streamlit.app/
